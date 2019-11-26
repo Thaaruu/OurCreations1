@@ -1,0 +1,63 @@
+.Artboard_1 {
+  position: absolute;
+  left: 0px;
+  top: 301px;
+  width: 1440px;
+  height: 1079px;
+  z-index: 7;
+}
+.Layer_3 {
+  background-image: url("Layer 3.png");
+  position: absolute;
+  left: -355px;
+  top: 484px;
+  width: 3710px;
+  height: 799px;
+  z-index: 6;
+}
+.fly_to_your_dreams {
+  font-size: 120px;
+  font-family: "Curlz MT";
+  color: rgb(20, 19, 18);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 224px;
+  top: 768.141px;
+  z-index: 5;
+}
+.our_creations_ {
+  font-size: 120px;
+  font-family: "BatmanForeverOutline";
+  color: rgb(20, 19, 18);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 61.303px;
+  top: 898px;
+  z-index: 4;
+}
+.oc {
+  font-size: 120px;
+  font-family: "BatmanForeverAlternate";
+  color: rgb(162, 115, 91);
+  line-height: 1.2;
+  text-align: left;
+  text-shadow: 0px 18px 33.06px rgba(37, 12, 12, 0.004);
+  -moz-transform: matrix( 3.10436523104717,0,0,5.16721533949805,0,0);
+  -webkit-transform: matrix( 3.10436523104717,0,0,5.16721533949805,0,0);
+  -ms-transform: matrix( 3.10436523104717,0,0,5.16721533949805,0,0);
+  position: absolute;
+  left: 608.584px;
+  top: 537px;
+  z-index: 3;
+}
+.Layer_1 {
+  background-image: url("Layer 1.png");
+  position: absolute;
+  left: 79px;
+  top: 0px;
+  width: 1274px;
+  height: 776px;
+  z-index: 2;
+}
